@@ -1,0 +1,3 @@
+"""
+Aplicación Streamlit - módulo init.
+"""
