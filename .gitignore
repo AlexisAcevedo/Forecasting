@@ -74,12 +74,12 @@ venv.bak/
 
 # Data - Excluir datos grandes pero mantener estructura
 data/raw/*.csv
-data/processed/*.csv
+#data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
 # Models - Excluir modelos entrenados (son muy grandes)
-models/*.joblib
+#models/*.joblib
 models/*.pkl
 models/*.h5
 models/*.pt
